@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76cab49d9b474ad4d8b6f64750ad6e2f, type: 3}
+  m_Name: Enemy 1
+  m_EditorClassIdentifier: 
+  enemyType: 1
+  enemyId: 1
+  enemyName: Rogue
+  enemyMaxHealth: 60
+  enemySpeed: 4
+  enemyTraitTime: 1.5
+  enemyTraitSpeed: 15
+  enemyTraitCool: 2
+  sprite: {fileID: -1460147541, guid: ed4edcc13cc60764181cc25a7679faf6, type: 3}
+  colliderOffset: {x: 0.04, y: 0.72}
+  colliderSize: {x: 1.06, y: 1.44}
+  colliderDirection: 1
+  detectionRangeOffset: {x: 0.1, y: 0.5}
+  detectionRangeRadius: 8

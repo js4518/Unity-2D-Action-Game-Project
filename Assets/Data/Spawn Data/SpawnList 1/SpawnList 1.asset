@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afef8b5a000eaaa4da13cb46a4246957, type: 3}
+  m_Name: SpawnList 1
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: ea16c1f7540fe334eb1ea8dbdb41081e, type: 2}
+  - {fileID: 11400000, guid: 851d74019a72f7540b6b82730634c685, type: 2}
+  - {fileID: 11400000, guid: 86c7ce46ad01e6b459fdfe7d3a458599, type: 2}
+  - {fileID: 11400000, guid: 32d39378b6c1f8c46a9112c6219a83d8, type: 2}
+  terrainPrefab: {fileID: 2352682818406093586, guid: 0c06270fd45724e4bac0bad6e478c088, type: 3}
+  spawnListID: 0

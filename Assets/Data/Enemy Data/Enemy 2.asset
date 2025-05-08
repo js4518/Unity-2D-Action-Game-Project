@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76cab49d9b474ad4d8b6f64750ad6e2f, type: 3}
+  m_Name: Enemy 2
+  m_EditorClassIdentifier: 
+  enemyType: 0
+  enemyId: 2
+  enemyName: Wolf
+  enemyMaxHealth: 40
+  enemySpeed: 4
+  enemyTraitTime: 1
+  enemyTraitSpeed: 24
+  enemyTraitCool: 1
+  sprite: {fileID: 1936497647, guid: ed4edcc13cc60764181cc25a7679faf6, type: 3}
+  colliderOffset: {x: -0.04, y: 0.53}
+  colliderSize: {x: 1.2, y: 1.18}
+  colliderDirection: 1
+  detectionRangeOffset: {x: 0, y: 0.4}
+  detectionRangeRadius: 6
