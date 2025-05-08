@@ -1,4 +1,4 @@
-![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (5)](https://github.com/user-attachments/assets/27ddbbed-76fb-42ae-af30-1637cb2a1b2d)# 유니티 2D 액션 게임 시스템 개발 프로젝트
+# 유니티 2D 액션 게임 시스템 개발 프로젝트
 2025.01 ~ 2025.02 / 진행기간 : 약 1개월
 ## 1. 프로젝트 개요
 
