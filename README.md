@@ -61,3 +61,4 @@ Unity를 이용하여 Windows 운영체제가 설치된 PC에서 실행 가능�
 3-3. 주요 개발 내용
 ![image](https://github.com/user-attachments/assets/10a6e176-5f09-4242-91bc-5d604aff53d9)
 
+![image](https://github.com/user-attachments/assets/bf98006c-2054-400c-910c-af9024f544b2)
