@@ -63,8 +63,6 @@ Unity를 이용하여 Windows 운영체제가 설치된 PC에서 실행 가능�
 ![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (3)](https://github.com/user-attachments/assets/7fec2d21-aebe-4a00-a461-9af67a731c87)
 ![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (4)](https://github.com/user-attachments/assets/6a36278b-d34a-4296-b7b2-d9f2ed6b31b8)
 ![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (5)](https://github.com/user-attachments/assets/ec0438c9-e401-48c2-9047-0814df538a3d)
-![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (6)](https://github.com/user-attachments/assets/36497deb-8fad-4538-942a-82f1c7f83b4f)
-![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (7)](https://github.com/user-attachments/assets/702403ac-837b-46b0-abfc-fde5ff9370da)
 ![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (8)](https://github.com/user-attachments/assets/6a96bfe6-5290-4b8f-8d57-29b921e78624)
 ![Unity-2D-Action-Game-Project-MainScene-WindowsMacLinux-Unity66000 0 43f1_DX11_2025-05-0818-03-53-ezgif com-crop (9)](https://github.com/user-attachments/assets/e58e5c44-b6ac-4cf6-b693-7d402f0a084d)
 
